@@ -1,6 +1,6 @@
 ## Overview
 
-A Geolocation based application to track movements of a particular user with the help of coordinates and visualize it over a map using MapBox apis
+The Geolocation based application used to track the user locations and visualize it as a line called the GeoJson line using Mapbox and Javascript geo location APIS
 
 ## Demo
 
