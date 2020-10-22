@@ -11,7 +11,7 @@ The Geolocation based application used to track the user locations and visualize
 ## Steps to use
 
 - Clone the repository
-    - ```git clone https://github.com/dineshnadimpalli/GeoTracking_DriverLocation_JS.git```
+    - ```git clone https://github.com/SwarnavaBhattacharya/Geo_location_tracking_line.git```
 - Open the ```tracking.html``` and click on start which will automatically start capturing your location using the browser geo location api
 - The above step will store the coordinates in your ```localstorage``` which you need to retrieve to show on the map
 - Now, open Mapbox and follow the steps to integrate ```Mapbox GL JS``` in the project and create your ```<API_KEY>``` (the project used the Mapbox cdn. There is an npm version as well)
